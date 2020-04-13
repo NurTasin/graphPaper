@@ -23,7 +23,7 @@ self.waitUntilClick() --> Stops progress of graph paper until a click from mouse
 self.close() --> Closes the graph paper window properly.<br>
 <br>
 <h2>Conclusion</h2>
-N.B: As this library is designed and built within 15~20 minutes you may find some bugs here. Issue it on www.github.com/NurTasin/graphPaper.git
+N.B: As this library is designed and built within 15~20 minutes you may find some bugs here. Issue it on https://github.com/NurTasin/graphPaper/issues .<br>
 The module graphics.py I have used in this library, is open-source software released under the terms of the
 GPL (http://www.gnu.org/licenses/gpl.html).<br><br>
 <strong>Thanks to John Zelle and Others for designing the graphics library.</strong>
