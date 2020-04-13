@@ -1,10 +1,12 @@
 # GraphPaper
-A library based on tkinter for ploting graphs of equations.
+<marquee>A library based on tkinter for ploting graphs of equations.</marquee>
 
 <h2>Usages</h2>
 This Library Allows you to create a virtual graph paper in your python tkinter window.
 You can plot a whole graph of any kind of equation or statistics.
-
+<h2>Installation</h2>
+Put this library at the root path of your project.<br>
+<strong>This libary don't need any kind of installation at all.</strong><br>
 <h2>Methodes and Classes</h2>
 The class and functions and their usages are listed below:
 GraphPaper(screenHeight,screenWidth,title) --> This is the class to declare a virtual graph paper instance.<br>
